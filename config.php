@@ -1,0 +1,5 @@
+<?php 
+$GENUMNAME="GeNumSI";
+$GENUMMATIERE="NSI";
+?>
+

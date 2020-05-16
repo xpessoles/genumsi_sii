@@ -1,0 +1,11 @@
+stages:
+  - deploy
+job1_deploy:
+  stage: deploy
+  tags: 
+    - prod
+  script:
+    - cd /appli/genumsi
+    - git pull
+  only:
+    - master

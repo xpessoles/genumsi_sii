@@ -1,0 +1,41 @@
+.table_verite {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+code {
+    font-family: monospace;
+    color: black;
+    font-weight: bold;
+    background-color: #eee;
+    border-radius: 1px;
+    padding: 5px;
+}
+
+pre {
+    font-family: monospace;
+    color: black;
+    font-size: 100%;
+    display: block;
+    background-color: #eee;
+    white-space: pre;
+    margin: 1em0;
+    padding: 3px5px;
+    border: 3pxdoublesilver;
+    overflow: hidden;
+}
+
+.img-question,
+.texte-question img {
+    max-width: 50%;
+    display: block;
+    margin: 10px auto 10px auto;
+}
+
+.img-question-print {
+    max-width: 50%;
+    display: block;
+    margin: 10px auto 10px auto;
+}
+
+.coll
