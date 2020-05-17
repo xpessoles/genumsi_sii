@@ -117,7 +117,8 @@ REPLACE INTO `sous_domaines` (`num_sous_domaine`, `sous_domaine`, `num_domaine`)
 	(8, "Systèmes du deuxième ordre", 2),
 	(9, "Réponses fréquentielles", 2),
 	(10, "Diagrammes d\`états", 4),
-	(11, "Chronogrammes", 4);
+	(11, "Chronogrammes", 4)
+	(12, "Liaisons cinématiques", 8);
 /*!40000 ALTER TABLE `sous_domaines` ENABLE KEYS */;
 
 -- Listage de la structure de la table genumsi. utilisateurs
